@@ -3,10 +3,8 @@
 
 # private
 
-## crawlling image
-week1/webtoon
-week1/dogs
-week1/product
+data/
+
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
