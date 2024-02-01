@@ -5,6 +5,9 @@
 
 data/
 
+*.csv
+용례_게임.json
+
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
